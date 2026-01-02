@@ -1,2 +1,6 @@
 data
 ragvenv
+faiss_index
+faiss_test
+docs
+test.ipynb
